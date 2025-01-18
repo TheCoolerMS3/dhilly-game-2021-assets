@@ -7,6 +7,7 @@ What's missing:
 * Dhilly Game 5 (Version 1.01) (Source identical to 1.02, was compiled wrong)
 * Dhilly Game 5 (GB Studio 3 port, version 1.1)
 * Dhilly Game 27 (This is entirely a StanDX project and would have no business on my Google Drive, ask him if you need this)
+* Ivan's Birthday Game
 * Probably other things, idk
 
 What I chose not to share:
@@ -17,3 +18,4 @@ What I chose not to share:
 What is in it's own repository:
 * MS3 Game
 * Dhilly Game 6 Remake
+* All later Dhilly Game projects
