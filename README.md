@@ -1,5 +1,5 @@
 # dhilly-game-2021-assets
-Old Dhilly Game files from my Google Drive - organized and public! Despite the title, some of these are from after 2021.
+Old Dhilly Game files from my Google Drive - organized and public!
 
 What's missing:
 * Dhilly Game 1
