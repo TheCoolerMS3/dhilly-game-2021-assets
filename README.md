@@ -1,7 +1,7 @@
 # dhilly-game-2021-assets
 Old Dhilly Game files from my Google Drive - organized and public!
 
-What's missing:
+What's not here:
 * Dhilly Game 1
 * Dhilly Game 3 (GB Studio 3 port, version 1.1)
 * Dhilly Game 5 (Version 1.01) (Source identical to 1.02, was compiled wrong)
