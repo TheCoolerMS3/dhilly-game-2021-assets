@@ -7,5 +7,6 @@ What's incomplete:
 
 What's missing:
 * Dhilly Game 1
+* Dhilly Game 3 (GB Studio 3 port, version 1.1)
 * Dhilly Game 6 Demo (2022) (I do have this, but for several reasons sharing it would be inapproprate, contact me if you need this)
 * Probably other things, idk
