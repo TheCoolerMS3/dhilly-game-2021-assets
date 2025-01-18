@@ -6,4 +6,5 @@ What's incomplete:
 * Dhilly Game 6 (2023 version) (missing assets, project files are totally intact!)
 
 What's missing:
-Dhilly Game (Original)
+* Dhilly Game 1
+* Dhilly Game 6 Demo (2022) (I do have this, but for several reasons sharing it would be inapproprate, contact me if you need this)
