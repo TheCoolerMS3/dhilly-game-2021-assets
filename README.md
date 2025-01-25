@@ -6,6 +6,7 @@ What's not here:
 * Dhilly Game 3 (GB Studio 3 port, version 1.1)
 * Dhilly Game 5 (Version 1.01) (Source identical to 1.02, was compiled wrong)
 * Dhilly Game 5 (GB Studio 3 port, version 1.1)
+* Dhilly Game 6 Beta (Yeah, there was a whole drama about this)
 * Dhilly Game 27 (This is entirely a StanDX project and would have no business on my Google Drive, ask him if you need this)
 * Ivan's Birthday Game
 * All GameMaker Studio projects
